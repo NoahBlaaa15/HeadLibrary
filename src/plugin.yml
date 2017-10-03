@@ -1,0 +1,14 @@
+name: HeadLibrary
+version: 1.0
+author: NoahBlaaa15
+main: eu.chaoslab.main.HeadLibrary
+
+commands:
+  head-test:
+    description: Give Plugin Authors Skull
+  head-add:
+    description: Adde einen Kopf zum Speicher
+  head:
+    description: Oeffnet eine Liste mit allen gespeicherten Heads
+  heads:
+    description: Oeffnet eine Liste mit allen gespeicherten Heads    
